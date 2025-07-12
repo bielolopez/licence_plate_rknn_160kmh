@@ -155,6 +155,4 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-'''
-python ppocr_system1.py --det_model_path ../../PPOCR-Det/model/ppocrv4_det.rknn  --rec_model_path ../../PPOCR-Rec/model/ppocrv4_rec.rknn   --target rk3588
-'''
+
